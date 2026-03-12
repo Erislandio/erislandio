@@ -1,293 +1,238 @@
-# Erislandio Soares
+# 👨‍💻 Erislandio Soares
 
-Senior Full-Stack Engineer & Tech Lead based in Brazil, with more than **5 years of experience building scalable digital products, e-commerce platforms, and distributed systems**.
+### Senior Full-Stack Engineer & Tech Lead
 
-I specialize in designing and delivering **end-to-end software solutions**, combining modern frontend technologies with scalable backend architectures and cloud infrastructure.
-
-My work spans **React, Next.js, Node.js, Java, Python, Golang, GraphQL, and cloud technologies**, focusing on high-performance applications and reliable systems used in real-world production environments.
-
----
-
-# Professional Summary
-
-Senior Full-Stack Engineer with strong expertise in **JavaScript, Java, Python, and modern web technologies**. Experienced in developing scalable applications, designing APIs, and leading engineering teams across complex digital platforms.
-
-I have worked extensively in **large-scale e-commerce environments**, building solutions that power product catalogs, checkout systems, logistics integrations, and digital commerce experiences.
-
-My experience includes:
-
-- Designing **scalable APIs and microservices**
-- Building **high-performance frontend applications**
-- Integrating complex backend systems
-- Leading development teams and performing code reviews
-- Delivering solutions for global commerce platforms
-
-I enjoy solving complex engineering challenges and building systems that are **reliable, scalable, and impactful**.
+🌎 Brazil  
+📧 erislandiosoares21@gmail.com  
+💼 https://linkedin.com/in/erislandio  
+💻 https://github.com/erislandio
 
 ---
 
-# Core Expertise
+## 🚀 About Me
 
-### Full-Stack Development
+Senior Full-Stack Engineer with **5+ years of experience building scalable digital products, e-commerce platforms, and distributed systems**.
 
-Design and development of modern web applications across frontend and backend layers.
+I specialize in **end-to-end application development**, combining modern frontend technologies with scalable backend architectures and cloud infrastructure.
 
-### API & System Architecture
+My experience includes building high-performance applications using:
 
-Building scalable APIs using **GraphQL and REST**, enabling clean integrations between services.
-
-### E-commerce Platforms
-
-Extensive experience with **VTEX and VTEX IO**, delivering storefronts, integrations, and custom commerce flows.
-
-### Distributed Systems
-
-Designing backend services and microservices that handle high-traffic environments and large-scale operations.
-
-### Technical Leadership
-
-Mentoring developers, conducting code reviews, defining architecture decisions, and leading engineering initiatives.
-
----
-
-# Technical Skills
-
-## Programming Languages
-
-- JavaScript
-- TypeScript
-- Java
-- Python
-- Golang
-
-## Frontend
-
-- React
-- Next.js
-- React Native
-- Redux
-- Angular
-- HTML5 / CSS3
-- Modern UI architectures
-
-## Backend
-
+- React / Next.js
 - Node.js
 - Java
 - Python
 - Golang
-- Django
-- Express
-- Microservices architecture
+- GraphQL
+- Cloud Infrastructure
+
+I enjoy solving complex engineering problems and building systems that are **reliable, scalable, and impactful**.
+
+---
+
+# 🧠 Core Expertise
+
+### 🧩 Full-Stack Development
+
+Design and development of modern web applications across frontend and backend layers.
+
+### ⚙️ API & System Architecture
+
+Building scalable APIs using **GraphQL and REST** with clean service architectures.
+
+### 🛒 E-commerce Platforms
+
+Extensive experience with **VTEX and VTEX IO**, delivering storefronts, integrations, and commerce solutions.
+
+### ☁️ Distributed Systems
+
+Designing backend services that power large-scale digital platforms.
+
+### 👥 Technical Leadership
+
+Mentoring developers, performing code reviews, and guiding engineering teams.
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go)
+
+---
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux)
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+
+---
+
+## Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+---
 
 ## APIs & Data
 
-- GraphQL
-- REST APIs
-- Apollo Server / Client
-- MySQL
-- MongoDB
-- Redis
-- PostgreSQL
-- Elasticsearch
+![GraphQL](https://img.shields.io/badge/GraphQL-pink?style=for-the-badge&logo=graphql)
+![REST](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+
+---
 
 ## Cloud & DevOps
 
-- Docker
-- Google Cloud Platform
-- AWS
-- Linux
-- CI/CD pipelines
-- GitHub Actions
-- Grafana
-- Kubernetes
-
-## Engineering Practices
-
-- Agile / Scrum
-- Code Reviews
-- Software Testing
-- System Architecture
-- Troubleshooting
-- Product-driven development
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-white?style=for-the-badge&logo=googlecloud)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
 
 ---
 
-# Professional Experience
+# 💼 Professional Experience
 
-## Tech Lead — Weonne | Artiq
+## 👨‍💼 Tech Lead — Weonne | Artiq
 
-Leading the **NCR Angola project**, an innovative platform designed to solve addressing and delivery challenges in regions with non-standardized addresses.
-
-The platform introduces an **interactive map-based addressing system**, enabling accurate delivery locations and improving logistics operations in the Angolan market.
-
-Key contributions include:
-
-- Defining system architecture and technical strategy
-- Leading frontend and backend development
-- Mentoring developers and conducting code reviews
-- Building geolocation-based logistics workflows
-
-Technologies used:
-
-React, Node.js, TypeScript, GraphQL, Docker, Maps APIs
-
----
-
-## Senior Full-Stack Developer — Quality Digital
-
-Worked on large-scale **e-commerce solutions using VTEX IO**, building modern storefronts and scalable backend services.
-
-Contributed to complex commerce workflows including **barcode sales systems and digital product integrations**.
+Leading the **NCR Angola project**, a platform designed to solve delivery and addressing challenges in regions without standardized address systems.
 
 Key contributions:
 
-- Development of custom GraphQL APIs
-- Scalable backend services for commerce operations
-- Advanced React storefront customizations
-- Integration of frontend and backend commerce systems
+- Designed an **interactive map-based addressing system**
+- Defined system architecture and technical strategy
+- Led engineering efforts and conducted code reviews
+- Built geolocation-driven logistics workflows
 
-Technologies used:
+**Tech**
 
-React, Node.js, GraphQL, TypeScript, VTEX IO, Apollo
+React • Node.js • TypeScript • GraphQL • Docker • Maps APIs
 
 ---
 
-## Software Developer — Fullstack Labs
+## 💻 Senior Full-Stack Developer — Quality Digital
 
-Developed global e-commerce solutions for **Corsair**, one of the leading gaming hardware brands.
-
-Built high-performance frontend interfaces integrated with GraphQL APIs to support global commerce operations.
+Developed **large-scale e-commerce solutions using VTEX IO**, building modern storefronts and scalable backend services.
 
 Key contributions:
 
-- React and Next.js frontend architecture
+- Custom GraphQL APIs for commerce workflows
+- Backend services supporting digital product operations
+- Advanced React storefront customization
+- Integration across commerce systems
+
+**Tech**
+
+React • Node.js • GraphQL • TypeScript • VTEX IO
+
+---
+
+## 🌎 Software Developer — Fullstack Labs
+
+Built global e-commerce solutions for **Corsair**, a leading gaming hardware brand.
+
+Key contributions:
+
+- React and Next.js frontend development
 - GraphQL API integrations
-- Component libraries and reusable UI systems
-- Performance and scalability improvements
-
-Technologies used:
-
-React, Next.js, GraphQL, TypeScript, Node.js
+- Reusable component libraries
+- Performance optimization
 
 ---
 
-## Backend Developer — LuizaLabs
+## 🚚 Backend Developer — LuizaLabs
 
-Worked on backend systems powering **logistics and freight operations for Magazine Luiza**, one of Brazil’s largest retail platforms.
-
-Designed and developed microservices responsible for freight calculation and delivery workflows across large-scale e-commerce systems.
+Worked on logistics and freight systems powering **Magazine Luiza's large-scale e-commerce platform**.
 
 Key contributions:
 
-- Backend microservices development
-- Freight calculation and delivery systems
-- Distributed service architecture
-- Integration with internal commerce platforms
+- Microservices for freight calculation
+- Backend logistics integrations
+- Distributed system architecture
 
-Technologies used:
+**Tech**
 
-Java, Python, Golang, Docker, MySQL
+Java • Python • Golang • Docker • MySQL
 
 ---
 
-## Full Stack Developer — ACCT Global
+## 🛍 Full Stack Developer — ACCT Global
 
-Developed custom **VTEX IO e-commerce storefronts** for Brazilian brands, delivering scalable frontend and backend solutions.
+Developed custom **VTEX IO storefronts** and digital commerce experiences.
 
 Key contributions:
 
-- Development of custom virtual stores
-- Integration with payment and logistics systems
-- Performance optimization for e-commerce applications
-- Collaboration with cross-functional teams
-
-Technologies used:
-
-React, Node.js, GraphQL, VTEX IO, CSS3
+- Custom e-commerce stores
+- Payment and logistics integrations
+- Frontend performance optimization
 
 ---
 
-# Selected Projects
+# 🚀 Selected Projects
 
-### NCR Angola — Interactive Addressing Platform
+### 📍 NCR Angola — Addressing Platform
 
-A geolocation-based platform designed to solve delivery challenges in regions without standardized addresses.
+A geolocation-based addressing system designed to enable reliable deliveries in regions without formal address infrastructure.
 
-Impact:
-
-Enabled reliable logistics and delivery workflows through interactive map-based address identification.
-
-Technologies:
-
-React, Node.js, TypeScript, GraphQL, Maps APIs
+Tech:  
+React • Node.js • GraphQL • Maps APIs
 
 ---
 
-### HunterDouglas — E-commerce Platform
+### 🛒 HunterDouglas — E-commerce Platform
 
-Developed advanced product configuration features allowing customers to customize curtain dimensions and product options.
+Advanced product configurator for customized product dimensions and purchase flows.
 
-Impact:
-
-Improved user experience and increased conversion rates.
-
-Technologies:
-
-React, VTEX IO, GraphQL, Node.js
+Tech:  
+React • VTEX IO • Node.js • GraphQL
 
 ---
 
-### Corsair Global Commerce
+### 🌎 Corsair Global Commerce
 
-Built frontend applications for Corsair’s global e-commerce platform serving millions of users.
+Frontend architecture for a global e-commerce platform serving millions of users.
 
-Technologies:
-
-React, Next.js, GraphQL
-
----
-
-### Smart Barber — Scheduling Platform
-
-Side project focused on building a modern scheduling system for barbershops.
-
-Features include:
-
-- User registration and authentication
-- Appointment scheduling
-- Service and barber management
-- Automated reminders
-
-Technologies:
-
-React Native, Node.js, MongoDB
+Tech:  
+React • Next.js • GraphQL
 
 ---
 
-# Leadership & Differentials
+### 📱 Smart Barber
 
-- Technical Leadership
-- System Architecture
-- Code Review & Engineering Standards
-- API Design & Service Layers
-- High-Scale Backend Systems
-- E-commerce Domain Expertise
-- Cross-functional Collaboration
+Mobile-first scheduling platform for barbershops.
+
+Tech:  
+React Native • Node.js • MongoDB
 
 ---
 
-# Contact
+# 🏆 Leadership & Strengths
 
-**Erislandio Soares**
+✔ Technical Leadership  
+✔ System Architecture  
+✔ Code Review & Engineering Standards  
+✔ API Design & Integration  
+✔ Scalable Backend Systems  
+✔ E-commerce Domain Expertise
 
-Brazil
+---
 
-Email  
-erislandiosoares21@gmail.com
+# 📫 Contact
 
-LinkedIn  
-https://linkedin.com/in/erislandio
+📧 erislandiosoares21@gmail.com  
+💼 https://linkedin.com/in/erislandio  
+💻 https://github.com/erislandio
 
-GitHub  
-https://github.com/erislandio
+---
+
+⭐ If you like my work, feel free to connect or collaborate!

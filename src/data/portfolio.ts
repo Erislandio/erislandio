@@ -113,43 +113,42 @@ export const skillCategories = [
 
 export const experiences = [
   {
-    company: "VTEX",
+    company: "Weonne | Artiq",
     role: "Tech Lead",
     period: "2023 — Present",
     description:
-      "Leading the NCR Angola project — an innovative solution tackling address delivery challenges in African markets with an interactive map-based system. Driving architecture decisions, conducting code reviews, and mentoring a cross-functional engineering team.",
+      "Technical Lead responsible for the NCR Angola project, an innovative platform designed to solve addressing and delivery challenges in regions with non-standardized addresses. Led the architecture and development of an interactive map-based system enabling more reliable location identification for logistics and delivery operations.",
     highlights: [
-      "Designed interactive map solving addressing problems for the Angolan market",
-      "Led a distributed engineering team across multiple time zones",
-      "Established coding standards and CI/CD pipelines for the project",
+      "Architected a map-based addressing system to improve delivery accuracy in Angola",
+      "Led the technical direction of the project, defining system architecture and engineering standards",
+      "Mentored developers and conducted code reviews to maintain high code quality",
+      "Collaborated with product and design teams to deliver scalable logistics solutions",
+      "Implemented backend APIs and frontend interfaces supporting geolocation-based workflows",
     ],
-    tech: ["React", "Node.js", "TypeScript", "GraphQL", "Docker"],
+    tech: ["React", "Node.js", "TypeScript", "GraphQL", "Docker", "Maps APIs"],
   },
   {
-    company: "VTEX",
-    role: "Fullstack Developer",
-    period: "2022 — 2023",
+    company: "Quality Digital",
+    role: "Senior Full-Stack Developer",
+    period: "2023 — Present",
     description:
-      "Built custom APIs with Node.js and GraphQL for barcode-based sales and digital product experiences. Developed scalable backend services handling thousands of transactions per day for major e-commerce operations.",
+      "Worked on large-scale e-commerce solutions using VTEX IO, building modern frontend applications and scalable backend services. Developed custom APIs with Node.js and GraphQL to support complex commerce flows, including barcode-based sales and digital product operations.",
     highlights: [
-      "Engineered custom GraphQL APIs for barcode sales workflows",
-      "Built digital product delivery systems serving 10K+ daily transactions",
-      "Reduced API response times by 40% through caching and query optimization",
+      "Developed custom GraphQL APIs supporting barcode sales and digital product workflows",
+      "Built scalable backend services integrated with VTEX IO for high-volume e-commerce operations",
+      "Implemented advanced React storefront customizations improving UX and product configuration flows",
+      "Collaborated with cross-functional teams delivering enterprise commerce solutions",
+      "Contributed to architecture decisions and code quality through reviews and technical discussions",
     ],
-    tech: ["Node.js", "GraphQL", "TypeScript", "React", "VTEX IO"],
-  },
-  {
-    company: "VTEX IO",
-    role: "Fullstack Developer",
-    period: "2021 — 2022",
-    description:
-      "Developed frontend customizations in React and backend integrations for enterprise e-commerce platforms. Specialized in creating high-performance storefront experiences with seamless checkout flows.",
-    highlights: [
-      "Built custom storefront components for enterprise clients",
-      "Integrated third-party services for payment and logistics",
-      "Improved page load times by 35% through code splitting and lazy loading",
+    tech: [
+      "React",
+      "Node.js",
+      "GraphQL",
+      "TypeScript",
+      "VTEX IO",
+      "Apollo",
+      "REST APIs",
     ],
-    tech: ["React", "Node.js", "GraphQL", "VTEX IO", "TypeScript"],
   },
   {
     company: "Fullstack Labs",
@@ -169,13 +168,14 @@ export const experiences = [
     role: "Backend Developer",
     period: "2019 — 2020",
     description:
-      "Engineered backend services for freight calculation and delivery logistics at Magazine Luiza — one of Brazil's largest retailers. Built high-throughput microservices handling millions of shipping calculations daily.",
+      "Backend developer working on logistics and freight systems for Magazine Luiza, one of the largest retail platforms in Brazil. Developed microservices responsible for freight calculation, delivery workflows, and logistics integrations supporting large-scale e-commerce operations.",
     highlights: [
-      "Built freight calculation engine processing 5M+ daily requests",
-      "Developed microservices with Java, Python, and Golang",
-      "Reduced delivery cost estimation errors by 25%",
+      "Developed backend microservices supporting freight calculation and delivery workflows",
+      "Built scalable services using Java, Python and Golang in a distributed architecture",
+      "Integrated logistics services with internal e-commerce systems",
+      "Improved reliability and maintainability of backend services through clean architecture practices",
     ],
-    tech: ["Java", "Python", "Golang", "Docker", "MySQL"],
+    tech: ["Java", "Python", "Golang", "Docker", "MySQL", "Microservices"],
   },
   {
     company: "ACCT Global",
@@ -193,6 +193,31 @@ export const experiences = [
 ];
 
 export const projects = [
+  {
+    title: "Fastshop — High-Performance E-commerce",
+    description:
+      "Developed a modern, lightning-fast e-commerce storefront for Fastshop using VTEX FastStore. Leveraging Next.js, GraphQL, and Node.js to achieve exceptional performance and SEO rankings.",
+    tech: ["Next.js", "FastStore", "GraphQL", "Node.js", "TypeScript"],
+    role: "Full-Stack Developer",
+    impact: "Achieved sub-second page loads and significant conversion lift",
+  },
+  {
+    title: "Obramax — Professional Marketplace",
+    description:
+      "Engineered robust e-commerce solutions for Obramax using VTEX IO technology. Built custom React components and high-performance Node.js/GraphQL backends for a complex building materials marketplace.",
+    tech: ["React", "VTEX IO", "Node.js", "TypeScript", "GraphQL"],
+    role: "Full-Stack Developer",
+    impact:
+      "Scalable architecture supporting massive product catalogs and B2B workflows",
+  },
+  {
+    title: "Americanas — Multi-channel Integration",
+    description:
+      "Architected and implemented complex integrations for orders, products, and user data using the Jitterbit orchestration platform, ensuring seamless synchronization between legacy systems and digital channels.",
+    tech: ["Jitterbit", "REST APIs", "Node.js", "Integration Architecture"],
+    role: "Integration Engineer",
+    impact: "Automated critical data flows, reducing manual sync errors by 90%",
+  },
   {
     title: "NCR Angola — Interactive Address System",
     description:

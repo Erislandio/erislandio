@@ -44,7 +44,9 @@ export default function About() {
             <div className="about__image-wrapper">
               <div className="about__image-inner">
                 <img
-                  src={personalInfo.profileImage}
+                  src={
+                    "https://i.ibb.co/nq3mPN18/computer-program-coding-screen-53876-138060.avif"
+                  }
                   alt={personalInfo.name}
                   className="about__profile-img"
                   onError={(e) => {

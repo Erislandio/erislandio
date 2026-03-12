@@ -1,7 +1,7 @@
-import { motion } from 'framer-motion'
-import { ArrowDown, Github, Linkedin, Mail, MessageSquare } from 'lucide-react'
-import { personalInfo } from '../data/portfolio'
-import './Hero.css'
+import { motion } from "framer-motion";
+import { ArrowDown, Github, Linkedin, Mail, MessageSquare } from "lucide-react";
+import { personalInfo } from "../data/portfolio";
+import "./Hero.css";
 
 export default function Hero() {
   return (
@@ -21,13 +21,15 @@ export default function Hero() {
           transition={{ duration: 0.5, delay: 0.1 }}
         >
           <div className="hero__profile-wrapper">
-             <img 
-              src={personalInfo.profileImage} 
-              alt={personalInfo.name} 
+            <img
+              src={"https://i.ibb.co/Zpr4dFMx/1641911699568.jpg"}
+              alt={personalInfo.name}
               className="hero__profile-img"
               onError={(e) => {
-                (e.target as HTMLImageElement).style.display = 'none';
-                (e.target as HTMLImageElement).parentElement!.classList.add('use-placeholder');
+                (e.target as HTMLImageElement).style.display = "none";
+                (e.target as HTMLImageElement).parentElement!.classList.add(
+                  "use-placeholder",
+                );
               }}
             />
             <div className="hero__profile-placeholder">
@@ -144,5 +146,5 @@ export default function Hero() {
         </a>
       </motion.div>
     </section>
-  )
+  );
 }
